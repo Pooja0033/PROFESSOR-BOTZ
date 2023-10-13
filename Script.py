@@ -8,11 +8,11 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
     HELP_TXT = "Hᴇʏ {}\nHᴇʀᴇ Mꜱ Mʏ Hᴇʟᴩ"
 
     ABOUT_TXT = """<b>✯ Mʏ ɴᴀᴍᴇ: {}
-✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Owner_PM_Bot>ᴍʀ.ᴍᴋɴ ᴛɢ</a>
+✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/Owner_PM_Bot>ᴩʀᴠ ʙᴏᴛᴢ</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ Mʏ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
 ✯ Mʏ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
-✯ Mʏ Vᴇʀꜱɪᴏɴ: ᴩʀᴏꜰᴇꜱꜱᴏʀ-ʙᴏᴛ ᴠ4.5.0</b>"""
+✯ Mʏ Vᴇʀꜱɪᴏɴ: ʜᴏɴᴇʏ ʀᴏꜱᴇ -ʙᴏᴛ ᴠ4.5.0</b>"""
    
     SOURCE_TXT = """<b>NOTE:</b>
 - ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://github.com/Pooja0033/PROFESSOR-BOTZ>ᴩʀᴠ - ʙᴏᴛᴢ</a>
@@ -222,11 +222,11 @@ Wᴇʟᴄᴏᴍᴇ ᴛᴏ {chat}.
   
     IMDB_TEMPLATE = """<b>Qᴜᴇʀʏ: {query}</b>
 
-🏷 Tɪᴛʟᴇ: <a href={url}>{title}</a>
-🎭 Gᴇɴʀᴇꜱ: {genres}
-📆 Yᴇᴀʀ: <a href={url}/releaseinfo>{year}</a>
-🌟 Rᴀᴛɪɴɢ: <a href={url}/ratings>{rating}</a>/10"""
-   
+🔖 ᴛɪᴛʟᴇ : <a href={url}>{title}</a>
+🎭 ɢᴇɴʀᴇs : {genres}
+📆 ʏᴇᴀʀ : <a href={url}/releaseinfo>{year}</a>
+🎖 ʀᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a>/10
+👁️‍🗨️ ᴊᴏɪɴ : @PRVOFFCL""" 
   
  
 
